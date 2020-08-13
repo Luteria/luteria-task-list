@@ -27,6 +27,8 @@
     ]
   },
   "devDependencies": {
+    "@commitlint/cli": "^9.1.1",
+    "@commitlint/config-conventional": "^9.1.1",
     "@luteria-task-list/eslint": "*",
     "@types/jest": "^26.0.9",
     "commitizen": "^4.1.2",
