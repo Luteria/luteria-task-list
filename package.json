@@ -27,6 +27,7 @@
     ]
   },
   "devDependencies": {
+    "@luteria-task-list/eslint": "*",
     "@types/jest": "^26.0.9",
     "commitizen": "^4.1.2",
     "cz-conventional-changelog": "3.2.0",
